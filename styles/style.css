@@ -160,3 +160,36 @@ strong
     }
     
 }
+body.dark-mode{
+    background-color: rgb(63, 62, 62);
+    color: white;
+}
+.apresentacao__links__link.dark-mode{
+    color: white;
+}
+.apresentacao__links__link.dark-mode:hover{
+    background-color: #504e4d;
+}
+#alternaTema{
+    margin-left: 2%;
+    margin-top: 2%;
+    width: 3.75rem;
+    height: 3.75rem;
+    background-color: #f3eae8;
+    border: 1px solid rgb(150, 149, 149);
+    border-radius: 20%;
+}
+#alternaTema:hover{
+    background-color: #c2bebe;
+}
+.alternaTema__img{
+    width: 3.625rem;
+    height: 3.625rem;
+}
+#alternaTema.dark-mode{
+    background-color: rgb(63, 62, 62);
+    border: 1px solid grey;
+}
+#alternaTema.dark-mode:hover{
+    background-color: #c2bebe;
+}
