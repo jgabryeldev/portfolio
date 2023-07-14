@@ -19,7 +19,7 @@ strong
 }
 .cabecalho
 {
-    padding: 3% 0% 0% 15%;
+    padding-left: 15%;
 }
 .cabecalho__menu
 {
@@ -157,6 +157,9 @@ strong
     .apresentacao__conteudo
     {
         width: auto;
+    }
+    .cabecalho{
+        padding: 3% 0% 0% 15%;
     }
     
 }
