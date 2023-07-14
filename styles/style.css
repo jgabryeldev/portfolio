@@ -11,6 +11,7 @@ body
     background-color: #f3eae8;
     color: black;
     height: 100vh;
+    transition: 1.5s;
 }
 
 strong
@@ -111,6 +112,7 @@ strong
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
+    transition: 1.5s;
 }
 .apresentacao__links__link:hover
 {
